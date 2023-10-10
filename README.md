@@ -1,16 +1,3 @@
 # peopleinfo
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+"People info" is my first flutter app. I made it so that I could have an excuse for learning http requests in flutter and how to make a nice decoration. There are also two libraries, one to save the fake contact, and the other one to load a country flag.
